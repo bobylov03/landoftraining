@@ -65,7 +65,7 @@ body {
     cursor: pointer;
     font-weight: 700; /* Увеличили жирность */
     transition: all 0.3s ease;
-    font-size: 15px; /* Увеличили размер шрифта */
+    font-size: 10px; /* Увеличили размер шрифта */
     min-width: 60px; /* Минимальная ширина */
     text-align: center;
 }
