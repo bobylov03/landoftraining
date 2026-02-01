@@ -116,7 +116,7 @@ body {
 .nav-menu {
     display: flex;
     list-style: none;
-    margin-right: 40px;
+    margin-right: 90px;
 }
 
 .nav-item {
